@@ -1,2 +1,2 @@
-# Landing Page Fruta e Fruto.
+# Landing Page - Fruta e Fruto.
 Aprendendo de Bootstrap 4
